@@ -1,0 +1,87 @@
+enable_model = [
+#    "kimi-k2-0711-preview",
+#    "qwen3-coder-flash",
+#    "gpt-4.1-nano",
+#    "gemini-2.5-flash-lite-preview-06-17",
+#    "deepseek-chat",
+#    "doubao-seed-1-6-flash-250615",
+#    "grok-4",
+#    "ernie-lite-pro-128k",
+#    "GLM-4-Flash-250414",
+#    "hunyuan-turbos-latest",
+#    "mistralai/Mistral-Large-Instruct-2411",
+#    "claude-3-5-haiku-latest",
+#    "MiniMax-M1",
+    "intern-latest"
+]
+
+[[models]]
+name = "kimi-k2-0711-preview"
+base_url = "https://api.moonshot.cn/"
+api_key = "-----------"
+
+[[models]]
+name = "qwen3-coder-flash"
+base_url = "https://dashscope.aliyuncs.com/compatible-mode/"
+api_key = "-----------"
+
+[[models]]
+name = "gpt-4.1-nano"
+base_url = "-----------"
+api_key = "-----------"
+
+
+[[models]]
+name = "gemini-2.5-flash-lite-preview-06-17"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "deepseek-chat"
+base_url = "https://api.deepseek.com"
+api_key = "-----------"
+
+[[models]]
+name = "doubao-seed-1-6-flash-250615"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "grok-4"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "ernie-lite-pro-128k"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "GLM-4-Flash-250414"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "hunyuan-turbos-latest"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "mistralai/Mistral-Large-Instruct-2411"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "claude-3-5-haiku-latest"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "MiniMax-M1"
+base_url = "-----------"
+api_key = "-----------"
+
+[[models]]
+name = "intern-latest"
+base_url = "-----------"
+api_key = "-----------"

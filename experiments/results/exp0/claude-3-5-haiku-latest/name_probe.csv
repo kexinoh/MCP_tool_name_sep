@@ -1,0 +1,72 @@
+name,category,api_status,visible_name,can_call,normalized,notes
+a,length,ok,a,True,,
+aa,length,ok,aa,True,,
+aaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': 'tools.0.custom.name: String should have at most 128 characters'}, 'request_id': 'req_011CSUhYU3KuD24yqdoSEdr4'}",,False,,BadRequestError
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': 'tools.0.custom.name: String should have at most 128 characters'}, 'request_id': 'req_011CSUhYYDqpznVtH1VBLLUY'}",,False,,BadRequestError
+tool,charset,ok,tool,True,,
+tool_1,charset,ok,tool_1,True,,
+tool-1,charset,ok,tool-1,True,,
+Tool123,charset,ok,Tool123,True,,
+my.tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYbhweHStyuDjciPwA'}",,False,,BadRequestError
+my/tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYc9Eg6TXBKosmHSpa'}",,False,,BadRequestError
+my:tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYcVpZgfuaaRKi9Hna'}",,False,,BadRequestError
+my@tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYceFj8ExbJDHCu6jE'}",,False,,BadRequestError
+my+tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYcru7ueXg1aKdqMrT'}",,False,,BadRequestError
+"my,tool",charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYcjTVyBohYa3sX89y'}",,False,,BadRequestError
+my?tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYff58XnBRXFGKKs6j'}",,False,,BadRequestError
+my#tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYguEgQjFmyQNxr19M'}",,False,,BadRequestError
+my%tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYgYuABPVeeKBy6iVR'}",,False,,BadRequestError
+my tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYgTwXdJpeawL63bKp'}",,False,,BadRequestError
+ tool,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYgqWoevnamhZ1k6Vx'}",,False,,BadRequestError
+tool ,charset,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYgyTGVEGRGvgCUQYt'}",,False,,BadRequestError
+工具,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYhp46w3qmtZSy8Cd5'}",,False,,BadRequestError
+café,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYjB9yDjTnrLZbdbrS'}",,False,,BadRequestError
+café,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYjSXgcJtN3pyvtZTT'}",,False,,BadRequestError
+ｔｏｏｌ,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYjbTZZRGCU3tDfehz'}",,False,,BadRequestError
+🛠️tool,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYkQKzwxYr9BcYZzwo'}",,False,,BadRequestError
+δοκιμή,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYkak2xLYyDzoCDnLc'}",,False,,BadRequestError
+tool​name,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYkXGmGWtkLebRLate'}",,False,,BadRequestError
+tool‍name,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYkoe3nixG5ihS89Zq'}",,False,,BadRequestError
+tool⁠name,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYktM4ZTdUQa7M1ZSP'}",,False,,BadRequestError
+Straße,unicode,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYm7jeFTANCUbcrPW1'}",,False,,BadRequestError
+abc‏def,directional,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYmeEnu3mZdwGLH55z'}",,False,,BadRequestError
+‮abc,directional,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYoCFZb43gg3BiHKZJ'}",,False,,BadRequestError
+_start,boundary,ok,_start,True,,
+-start,boundary,ok,start,True,start,
+end_,boundary,ok,end_,True,,
+end-,boundary,ok,end-,True,,
+0start,boundary,ok,0start,True,,
+.,boundary,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYpgo8kYtpVXQWtmE3'}",,False,,BadRequestError
+.hidden,boundary,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhYpXcqDoRBYUZWo4Rd'}",,False,,BadRequestError
+system,reserved,ok,system,True,,
+assistant,reserved,ok,assistant,True,,
+user,reserved,ok,user,True,,
+function,reserved,ok,function,True,,
+tool,reserved,ok,tool,True,,
+default,reserved,ok,default,True,,
+null,reserved,ok,null,True,,
+none,reserved,ok,none,True,,
+model,reserved,ok,model,True,,
+server,reserved,ok,server,True,,
+read,reserved,ok,read,True,,
+write,reserved,ok,write,True,,
+search,reserved,ok,search,True,,
+call,reserved,ok,call,True,,
+exec,reserved,ok,exec,True,,
+shell,reserved,ok,shell,True,,
+server.tool,path,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ33SwiDWEZHz4Nwrg'}",,False,,BadRequestError
+server/tool,path,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ3wGo1fUxxxCSaYAv'}",,False,,BadRequestError
+ns:tool,path,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ4S3AfKqZY63QibTj'}",,False,,BadRequestError
+../tool,path,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ5eiETNinchPjTEG4'}",,False,,BadRequestError
+./tool,path,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ5p8gE2ohQgG2vi8r'}",,False,,BadRequestError
+"tl
+name",control,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ6KtXxA9TXRmKqPPe'}",,False,,BadRequestError
+"tlname",control,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ6EgeHUFPfn4187sp'}",,False,,BadRequestError
+tl	name,control,"Error code: 400 - {'error': {'type': 'invalid_request_error', 'message': ""tools.0.custom.name: String should match pattern '^[a-zA-Z0-9_-]{1,128}$'""}, 'request_id': 'req_011CSUhZ6tcwavGehS44zSjK'}",,False,,BadRequestError

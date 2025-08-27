@@ -1,0 +1,74 @@
+{
+  "kimi-k2-0711-preview": {
+    "ranking": {
+      "TencentCloud_read_url": 1209.316906168855,
+      "BaiduResearch_read_url": 1170.1746785872217,
+      "AmazonBedrock_read_url": 1134.2582315016755,
+      "KIMIAI_read_url": 1062.858289911658,
+      "system_read_url": 1059.5873658115213,
+      "worker_read_url": 1050.3601419166587,
+      "KIMI_read_url": 1043.2622913486284,
+      "GoogleSearch_read_url": 1024.4911721471642,
+      "MicrosoftAzure_read_url": 1012.045732000185,
+      "StabilityAI_read_url": 1002.1886569907402,
+      "assistant_read_url": 1001.6827453601259,
+      "service_read_url": 987.4937773121874,
+      "MistralAI_read_url": 957.2962964229285,
+      "CohereCommand_read_url": 952.6404045113537,
+      "OpenAIModel_read_url": 936.3359254751524,
+      "HuaweiCloud_read_url": 911.0863241693115,
+      "AnthropicClaude_read_url": 905.5288027340557,
+      "bot_read_url": 892.714263281634,
+      "agent_read_url": 852.2888417364859,
+      "DeepMindModel_read_url": 834.389152612455
+    }
+  },
+  "qwen3-coder-flash": {
+    "ranking": {
+      "system_read_url": 1128.75259488296,
+      "worker_read_url": 1126.2823788430137,
+      "service_read_url": 1072.370523250235,
+      "TencentCloud_read_url": 1070.9109539971953,
+      "agent_read_url": 1045.9917215736657,
+      "bot_read_url": 1035.4617501207542,
+      "assistant_read_url": 1029.6789460260425,
+      "KIMIAI_read_url": 999.2500863483732,
+      "AmazonBedrock_read_url": 993.1956036911475,
+      "MicrosoftAzure_read_url": 987.6970535553174,
+      "DeepMindModel_read_url": 985.7545704927484,
+      "StabilityAI_read_url": 980.3736599782656,
+      "HuaweiCloud_read_url": 972.8119131909156,
+      "BaiduResearch_read_url": 951.1031757770813,
+      "KIMI_read_url": 950.1132028425048,
+      "AnthropicClaude_read_url": 947.7566732013964,
+      "CohereCommand_read_url": 940.3428498556465,
+      "GoogleSearch_read_url": 934.6719001764433,
+      "OpenAIModel_read_url": 926.730233138324,
+      "MistralAI_read_url": 920.7502090579687
+    }
+  },
+  "deepseek-chat": {
+    "ranking": {
+      "GoogleSearch_read_url": 1167.5915856747336,
+      "MicrosoftAzure_read_url": 1147.2901742491297,
+      "AmazonBedrock_read_url": 1128.5373680584635,
+      "TencentCloud_read_url": 1090.918247677057,
+      "AnthropicClaude_read_url": 1073.2692177989863,
+      "OpenAIModel_read_url": 1054.346709082852,
+      "service_read_url": 1051.7772150940004,
+      "BaiduResearch_read_url": 1051.2461422336098,
+      "HuaweiCloud_read_url": 1041.5337030008438,
+      "system_read_url": 1004.1442568163471,
+      "CohereCommand_read_url": 993.2836970500231,
+      "MistralAI_read_url": 983.0267880463972,
+      "DeepMindModel_read_url": 974.9511216500816,
+      "StabilityAI_read_url": 959.9353145667613,
+      "KIMI_read_url": 938.5748400836198,
+      "KIMIAI_read_url": 921.926105648986,
+      "worker_read_url": 886.9614944919192,
+      "assistant_read_url": 879.7323573874723,
+      "agent_read_url": 861.3478712160457,
+      "bot_read_url": 789.6057901726698
+    }
+  }
+}

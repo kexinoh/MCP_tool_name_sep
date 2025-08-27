@@ -1,0 +1,634 @@
+{
+  "intern-latest": [
+    {
+      "name": "a",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "a",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'code': -20009, 'msg': '模型服务不可用，请稍后再试', 'traceId': '054cd9d283bb93e69436bd8001cf1468', 'data': {'id': 'nu84VW_ZX8yHRK1KthqegopPQh1Z89ONciSGUKmgFFA=', 'object': 'chat.completion', 'model': 'Intern-S1', 'created': 1756266107, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "tool_1",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "tool_1",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "tool-1",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "tool-1",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "Tool123",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "Tool123",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my.tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my.tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my/tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my/tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my:tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my:tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my@tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'code': -20009, 'msg': '模型服务不可用，请稍后再试', 'traceId': '6bf0320a1469ddf65ae1281cdde376a2', 'data': {'id': 'UBrxyQ9_kKHOM6vtuKn_KYpPQh1Z89ONciSGUKmgFFA=', 'object': 'chat.completion', 'model': 'Intern-S1', 'created': 1756266131, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "my+tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my+tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my,tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my,tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my?tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my?tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my#tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my#tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my%tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my%tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "my tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": " tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'code': -20009, 'msg': '模型服务不可用，请稍后再试', 'traceId': 'a60be2758bcb199c48c0809ee703b0b1', 'data': {'id': 'I_zQlBmflnopoZNP_a7A24pPQh1Z89ONciSGUKmgFFA=', 'object': 'chat.completion', 'model': 'Intern-S1', 'created': 1756266140, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tool ",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "tool ",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "工具",
+      "category": "unicode",
+      "api_status": "ok",
+      "visible_name": "工具",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "café",
+      "category": "unicode",
+      "api_status": "ok",
+      "visible_name": "café",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "café",
+      "category": "unicode",
+      "api_status": "ok",
+      "visible_name": "café",
+      "can_call": true,
+      "normalized": "café",
+      "notes": null
+    },
+    {
+      "name": "ｔｏｏｌ",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '1548fa6349e9fc36af46b91eab264ddc', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266151, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "🛠️tool",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'db6c1241f7d888c75128cedd5951a02a', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266151, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "δοκιμή",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'fcc91b97e5896c383c28f3c56ad636d6', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266151, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tool​name",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '75658652d9110eb5bd394446d3dc72b8', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266151, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tool‍name",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'f73ba073fc2578fe989613445863f729', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266151, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tool⁠name",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '9fc7975d87253d767efeb59f4cfa9a86', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266151, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "Straße",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '6590e372b0465f951ba7738d7f2cf8ec', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "abc‏def",
+      "category": "directional",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '858840f0714074db3b235647626fd616', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "‮abc",
+      "category": "directional",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'dc2fc36abf9c2fa630fba8bede037769', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "_start",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'af46bb252004ed5eb65a3ed2fa2e30c6', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "-start",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '2b47471bf5bc52f3bf9e3b20761ad605', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "end_",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'd7a191dcb9b925475340d4e33f071a8c', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "end-",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '2221adcf7c353246ca24ebd06ba262fd', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "0start",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '0d6e2e3b332cf753ef6db0a3417fd282', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": ".",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '6474a3a1b2354645793a989d23b758a8', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": ".hidden",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '9a337a4067bb9e10afe0e607f5daba13', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "system",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '9050247f73b06188aa0ce6239f634a87', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "assistant",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'f14eef4d5316fa172f8128f7065fb2fe', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266152, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "user",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '507f20321a6555dec3dc7ed2749f0648', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "function",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'c42efed9d94ae8809f587b5a17757c54', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tool",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '47e8cc472bf8f5e9dbc8770f185c1165', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "default",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'e0c8bf7cbf060eac0a0522b115c9dbab', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "null",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'e19fda7c442d6aa75aa40bad45a03411', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "none",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '3727c7255dd04a31c22584a3c6009866', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "model",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '6211846886d0ced276762510da7e791a', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "server",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '8dbf7add5e01bc5c4b002701a65e6be2', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "read",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'efe464cab6ec3b2e90be0fc8da398035', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "write",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'd3e7ac60a5282e41be66da1d4040011a', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "search",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '5085e35811d45a08d4a11712d2a569a8', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "call",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '148da9428d0391ccf2d107fa10392193', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "exec",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '65a9c9e7c7cc8d82d69705269859efb2', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "shell",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'cd8d7740731b708018deef22d3790b3b', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "server.tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'fd7c04a1bc4b1ecfd3e2a7c4acc9f2bf', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "server/tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '44c17cf46f1c9364eae330963848afa1', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "ns:tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '35557541b2ed557c1bd507b66e22556e', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "../tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'e8863c08196daf9ebe389da54ca53e81', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "./tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': '134c22ff8c3714a717a2630bd32df26e', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tl\nname",
+      "category": "control",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'bc45e0ae97773870d10bef9ff2a9409e', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266153, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tl\rname",
+      "category": "control",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'bebb8ed5099296014751301e4b1f4705', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266154, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    },
+    {
+      "name": "tl\tname",
+      "category": "control",
+      "api_status": "Error code: 400 - {'code': -20048, 'msg': '请求过于频繁，请稍后再试', 'traceId': 'fddd1338d58f3513855e35d69d654312', 'data': {'id': '', 'object': 'chat.completion', 'model': '', 'created': 1756266154, 'choices': None, 'moderation': {'sensitive': False, 'category': ''}}}",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "BadRequestError"
+    }
+  ]
+}

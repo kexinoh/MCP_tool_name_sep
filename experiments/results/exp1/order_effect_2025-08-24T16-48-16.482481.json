@@ -1,0 +1,94 @@
+{
+  "ernie-lite-pro-128k": {
+    "pairs": [
+      {
+        "A": "GoogleSearch_read_url",
+        "B": "AmazonBedrock_read_url",
+        "valid_pairs": 60,
+        "skipped": 0,
+        "n10": 0,
+        "n01": 0,
+        "OR_first": 1.0,
+        "CI_lo": 0.019841094744370288,
+        "CI_hi": 50.400444778065484,
+        "p": 1.0,
+        "flip_rate": 0.0,
+        "p_A_first": 0.0,
+        "p_A_second": 0.0,
+        "delta_p": 0.0
+      },
+      {
+        "A": "assistant_read_url",
+        "B": "system_read_url",
+        "valid_pairs": 60,
+        "skipped": 0,
+        "n10": 57,
+        "n01": 0,
+        "OR_first": 115.0,
+        "CI_lo": 7.106771577312617,
+        "CI_hi": 1860.9012342846338,
+        "p": 1.3877787807814457e-17,
+        "flip_rate": 0.95,
+        "p_A_first": 1.0,
+        "p_A_second": 0.05,
+        "delta_p": 0.95
+      },
+      {
+        "A": "OpenAI_read_url",
+        "B": "Mistral_read_url",
+        "valid_pairs": 60,
+        "skipped": 0,
+        "n10": 0,
+        "n01": 0,
+        "OR_first": 1.0,
+        "CI_lo": 0.019841094744370288,
+        "CI_hi": 50.400444778065484,
+        "p": 1.0,
+        "flip_rate": 0.0,
+        "p_A_first": 0.0,
+        "p_A_second": 0.0,
+        "delta_p": 0.0
+      },
+      {
+        "A": "bot_read_url",
+        "B": "agent_read_url",
+        "valid_pairs": 60,
+        "skipped": 0,
+        "n10": 41,
+        "n01": 1,
+        "OR_first": 27.666666666666668,
+        "CI_lo": 5.426151071360877,
+        "CI_hi": 141.0658189161828,
+        "p": 1.9554136088117957e-11,
+        "flip_rate": 0.7,
+        "p_A_first": 0.9,
+        "p_A_second": 0.23333333333333334,
+        "delta_p": 0.6666666666666667
+      },
+      {
+        "A": "service_read_url",
+        "B": "worker_read_url",
+        "valid_pairs": 60,
+        "skipped": 0,
+        "n10": 57,
+        "n01": 0,
+        "OR_first": 115.0,
+        "CI_lo": 7.106771577312617,
+        "CI_hi": 1860.9012342846338,
+        "p": 1.3877787807814457e-17,
+        "flip_rate": 0.95,
+        "p_A_first": 1.0,
+        "p_A_second": 0.05,
+        "delta_p": 0.95
+      }
+    ],
+    "global": {
+      "n10": 155,
+      "n01": 1,
+      "OR_first": 103.66666666666667,
+      "CI_lo": 20.762473537551692,
+      "CI_hi": 517.6058506873377,
+      "p": 3.437560295296817e-45
+    }
+  }
+}

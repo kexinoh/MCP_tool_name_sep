@@ -1,0 +1,634 @@
+{
+  "doubao-seed-1-6-flash-250615": [
+    {
+      "name": "a",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613740650501fd5fdd4a9586a81a38861506549a406a804a', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235643zurihjBdCkF3ZRsDCHUT",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613740765701fd5fdd4a9586a81a38861506549a4065b685', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252356444u58LBRijfkRbommpOJB",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613740897401fd5fdd4a9586a81a38861506549a40b29d56', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235646gZSoJYJH5stqf82gALff",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613741048001fd5fdd4a9586a81a38861506549a4035fa89', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252356476HK5ib1uuy3V8Q42ktAD",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613741222701fd5fdd4a9586a81a38861506549a40addb78', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235649DTiOpQWNIyf0waQTMbxp",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613741347201fd5fdd4a9586a81a38861506549a4082d8c9', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235650xZPhf6KBQSxmIF53rBue",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613741436101fd5fdd4a9586a81a38861506549a402f1ed5', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235651t6khjNxdXArJIVoRt2q2",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613741593101fd5fdd4a9586a81a38861506549a40e5051b', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235653RS9QCVOXWbwZZpoA9eNN",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613741774001fd5fdd4a9586a81a38861506549a40380df1', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235654gvm2rYWviaZxWrfEvVvZ",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613741977501fd5fdd4a9586a81a38861506549a408aa116', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235656NY3LyXGieZ84WewNMkPT",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613742184901fd5fdd4a9586a81a38861506549a4085766b', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235659TERKz4Wmq2YVXMGxFPzs",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613742360101fd5fdd4a9586a81a38861506549a402bdf3c', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235700K9VD4jUcyWBLZQmRAmw3",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool_1",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613742479901fd5fdd4a9586a81a38861506549a407f40c3', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235701eBn47N2rhQzKzf6UXXy9",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool-1",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613742647901fd5fdd4a9586a81a38861506549a4033f800', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235703eCt6u4p8IzZjFZ6IOPW8",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "Tool123",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613742784901fd5fdd4a9586a81a38861506549a407aa040', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357053nHlAtmjJfj7cSYYD7nl",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my.tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613742918801fd5fdd4a9586a81a38861506549a40f49181', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235706EjcGRmBrG0B6G1GeFVnX",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my/tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613743058001fd5fdd4a9586a81a38861506549a405b384e', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235707FEnpWK2tipI0pq7cTfnZ",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my:tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613743164001fd5fdd4a9586a81a38861506549a403d6e81', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235708WYVpwP2JwCtcCQ7DotiK",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my@tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613743274601fd5fdd4a9586a81a38861506549a40957f1f', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235709elIBXrwvGcWAlH33nx6N",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my+tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613743376901fd5fdd4a9586a81a38861506549a407562f9', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235710nXzUL9CBAZFenW2BCEpB",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my,tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613743481101fd5fdd4a9586a81a38861506549a404084dd', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357113BmBvMhlroYq3oM2JcbN",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my?tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613743696701fd5fdd4a9586a81a38861506549a407b6274', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235714EvsPShdyy9el8JwWiDZU",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my#tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613743869901fd5fdd4a9586a81a38861506549a405a0f62', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235715R7aVYipYAVzk6ywiVzg5",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my%tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744036301fd5fdd4a9586a81a38861506549a40d4fa88', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235717oUy9CtTwLJdztPWVb7rj",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "my tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744177901fd5fdd4a9586a81a38861506549a404e7f0a', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235718LCHLkZ3myl4x8xTNNH0h",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": " tool",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744295401fd5fdd4a9586a81a38861506549a40168f8f', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235720cjilnFpOcsnT8gyOGICq",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool ",
+      "category": "charset",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744407701fd5fdd4a9586a81a38861506549a40d9c66d', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235721otreQXoHuLbqX5IgCR2n",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "工具",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744507101fd5fdd4a9586a81a38861506549a40c2408d', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235722QP9nE81DZyy62p5QRbQI",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "café",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744663501fd5fdd4a9586a81a38861506549a40bc9953', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357239706w2lXwlqrLDxdJaCm",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "café",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744806501fd5fdd4a9586a81a38861506549a4093e5ce', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235725Oceu9WeMhYW0YCYJTrAB",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "ｔｏｏｌ",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613744977701fd5fdd4a9586a81a38861506549a40b887aa', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 2025082523572688y4rnF8SrLrMiNOVXDA",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "🛠️tool",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613745197501fd5fdd4a9586a81a38861506549a4064f1dd', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235729mwYRP5naiPXQwk7AbVgm",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "δοκιμή",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613745317301fd5fdd4a9586a81a38861506549a4033a7be', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235730UceBAHbBG045k0eiUFhY",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool​name",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613745462001fd5fdd4a9586a81a38861506549a40dfac23', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357314BAwVfRl22PGLYhNeSdu",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool‍name",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613745565501fd5fdd4a9586a81a38861506549a40c48731', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235732exelKHgsuOkC699KHozc",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool⁠name",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613745755801fd5fdd4a9586a81a38861506549a40b90792', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235734w0zb8sKOs02jZBR00luV",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "Straße",
+      "category": "unicode",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613745868001fd5fdd4a9586a81a38861506549a4062941b', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235735Cl1RczgjZIQ8dV6W87TJ",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "abc‏def",
+      "category": "directional",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746039001fd5fdd4a9586a81a38861506549a401f1b4f', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235737H6mHu9jaiIWdaDedOggV",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "‮abc",
+      "category": "directional",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746197801fd5fdd4a9586a81a38861506549a404c0a45', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235739u4XF311zbrLhNJqHkwcS",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "_start",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746324701fd5fdd4a9586a81a38861506549a404d11a9', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235740b9QjzObmi4JjhaucwBSg",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "-start",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746433401fd5fdd4a9586a81a38861506549a4083dea4', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235741IxfCMcDAIRTMUal7DlqZ",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "end_",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746540001fd5fdd4a9586a81a38861506549a40c2911c', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235742Ql7WuenU7AQXXsD8Zo59",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "end-",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746625001fd5fdd4a9586a81a38861506549a401088f1', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235743rmVDNU9xDtRRr7nJWAQO",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "0start",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746712001fd5fdd4a9586a81a38861506549a4076fed3', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357441giYKSgNe7LvyF19eC2A",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": ".",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613746897101fd5fdd4a9586a81a38861506549a40d31b00', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235746EAMylLBbL4ESP75dZ0QT",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": ".hidden",
+      "category": "boundary",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747033201fd5fdd4a9586a81a38861506549a403d3194', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357472p8NfVXHGcDzoKoCLLbj",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "system",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747196501fd5fdd4a9586a81a38861506549a403c4d5f', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235749KyEgLqmings8DQlkDmLI",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "assistant",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747331501fd5fdd4a9586a81a38861506549a40329743', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235750t63kBoC10GEIKUF4oPLB",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "user",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747428701fd5fdd4a9586a81a38861506549a40464df8', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235751CzscHgFhcyngitd4CUch",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "function",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747565801fd5fdd4a9586a81a38861506549a40ad53b8', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235752Bp4F5lni6PTux4h9tKSQ",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tool",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747692401fd5fdd4a9586a81a38861506549a407f8ad2', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357545k5zHm7BGlPTQ8p0dZ13",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "default",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747847701fd5fdd4a9586a81a38861506549a40f71a90', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235755bQgzYfkmtLYsRxgrh8Xy",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "null",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613747983501fd5fdd4a9586a81a38861506549a4044c9a1', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252357576FIC1dyHR6tH2XoqUu8I",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "none",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748105201fd5fdd4a9586a81a38861506549a4043b985', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 2025082523575897VE4dH3uikRkSxY79bZ",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "model",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748247801fd5fdd4a9586a81a38861506549a4017413d', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235759yVx7ihLt23kYYtMiI78W",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "server",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748373801fd5fdd4a9586a81a38861506549a40f61d41', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235800iJmOPk5YNsehulnaFDsg",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "read",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748535401fd5fdd4a9586a81a38861506549a40db986f', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235802P5ekqo9nIbdXuSAejkQn",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "write",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748648001fd5fdd4a9586a81a38861506549a40521ad0', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235803YaWgmSCSri7GvX2YaC3J",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "search",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748733001fd5fdd4a9586a81a38861506549a40ae6253', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235804wXK1WZd74FwN5kkTOtEI",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "call",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748822001fd5fdd4a9586a81a38861506549a408ca328', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235805oY88bB3kpWHB9F4lEib6",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "exec",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613748934401fd5fdd4a9586a81a38861506549a40ce313e', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235806TVSgQt8ZgB61SEEJoyTc",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "shell",
+      "category": "reserved",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613749103001fd5fdd4a9586a81a38861506549a40f17f24', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235808VTG6tUtTfhdMxDhUKPP4",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "server.tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613749237901fd5fdd4a9586a81a38861506549a408d5eb8', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235809XeND3EMFvl17KQVDrs6f",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "server/tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613749424901fd5fdd4a9586a81a38861506549a40739b66', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 202508252358112tMaSN0gbd4vUR9d2VES",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "ns:tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613749567601fd5fdd4a9586a81a38861506549a40916451', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 2025082523581208iQ6DrcERrQAFiS24Z2",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "../tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613749670001fd5fdd4a9586a81a38861506549a4094df1a', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235813Bym7JseYjzVOf4IDTmig",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "./tool",
+      "category": "path",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613749814901fd5fdd4a9586a81a38861506549a40b72012', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235815vao9j6duHLDPiQ8Twwi0",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tl\nname",
+      "category": "control",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613749930001fd5fdd4a9586a81a38861506549a40157d95', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235816qqYEN8T0jI4eKPBkw5Q9",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tl\rname",
+      "category": "control",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613750086501fd5fdd4a9586a81a38861506549a40ec4dd9', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235818pVpVch61CUjDFvhmwuC4",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    },
+    {
+      "name": "tl\tname",
+      "category": "control",
+      "api_status": "Error code: 400 - {'error': {'code': 'MissingParameter', 'message': 'The request failed because it is missing `tools.function` parameter. Request id: 02175613750209901fd5fdd4a9586a81a38861506549a409c1d84', 'param': 'tools.function', 'type': 'BadRequest'}}, request_id: 20250825235819M3gKILpYy6EcFMUAxaCu",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "ark_chain_fail:ArkBadRequestError"
+    }
+  ]
+}

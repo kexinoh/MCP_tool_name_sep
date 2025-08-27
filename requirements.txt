@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+pytest
+httpx
+openai
+requests
+beautifulsoup4
+mcp[cli]
+openai-agents
+pandas
+seaborn
+matplotlib
+tabulate

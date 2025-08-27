@@ -1,0 +1,90 @@
+{
+  "qwen3-coder-flash": {
+    "zh": {
+      "读取网页标题": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "ページタイトルを読む": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "Read page title": {
+        "count": 20,
+        "ratio": 1.0
+      }
+    },
+    "jp": {
+      "读取网页标题": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "ページタイトルを読む": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "Read page title": {
+        "count": 20,
+        "ratio": 1.0
+      }
+    },
+    "en": {
+      "读取网页标题": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "ページタイトルを読む": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "Read page title": {
+        "count": 20,
+        "ratio": 1.0
+      }
+    }
+  },
+  "ernie-lite-pro-128k": {
+    "zh": {
+      "读取网页标题": {
+        "count": 20,
+        "ratio": 1.0
+      },
+      "ページタイトルを読む": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "Read page title": {
+        "count": 0,
+        "ratio": 0.0
+      }
+    },
+    "jp": {
+      "读取网页标题": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "ページタイトルを読む": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "Read page title": {
+        "count": 20,
+        "ratio": 1.0
+      }
+    },
+    "en": {
+      "读取网页标题": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "ページタイトルを読む": {
+        "count": 0,
+        "ratio": 0.0
+      },
+      "Read page title": {
+        "count": 20,
+        "ratio": 1.0
+      }
+    }
+  }
+}

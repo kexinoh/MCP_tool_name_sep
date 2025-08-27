@@ -1,0 +1,72 @@
+name,category,api_status,visible_name,can_call,normalized,notes
+a,length,ok,a,True,,
+aa,length,ok,aa,True,,
+aaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,ok,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,True,,
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,'NoneType' object is not subscriptable,,False,,TypeError
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,'NoneType' object is not subscriptable,,False,,TypeError
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,'NoneType' object is not subscriptable,,False,,TypeError
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,'NoneType' object is not subscriptable,,False,,TypeError
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa,length,'NoneType' object is not subscriptable,,False,,TypeError
+tool,charset,ok,tool,True,,
+tool_1,charset,ok,tool_1,True,,
+tool-1,charset,ok,tool-1,True,,
+Tool123,charset,ok,Tool123,True,,
+my.tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+my/tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+my:tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+my@tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+my+tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+"my,tool",charset,'NoneType' object is not subscriptable,,False,,TypeError
+my?tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+my#tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+my%tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+my tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+ tool,charset,'NoneType' object is not subscriptable,,False,,TypeError
+tool ,charset,'NoneType' object is not subscriptable,,False,,TypeError
+工具,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+café,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+café,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+ｔｏｏｌ,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+🛠️tool,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+δοκιμή,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+tool​name,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+tool‍name,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+tool⁠name,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+Straße,unicode,'NoneType' object is not subscriptable,,False,,TypeError
+abc‏def,directional,'NoneType' object is not subscriptable,,False,,TypeError
+‮abc,directional,'NoneType' object is not subscriptable,,False,,TypeError
+_start,boundary,ok,_start,True,,
+-start,boundary,ok,-start,True,,
+end_,boundary,ok,end_,True,,
+end-,boundary,ok,end-,True,,
+0start,boundary,ok,0start,True,,
+.,boundary,'NoneType' object is not subscriptable,,False,,TypeError
+.hidden,boundary,'NoneType' object is not subscriptable,,False,,TypeError
+system,reserved,ok,system,True,,
+assistant,reserved,ok,assistant,True,,
+user,reserved,ok,user,True,,
+function,reserved,ok,function,True,,
+tool,reserved,ok,tool,True,,
+default,reserved,ok,default,True,,
+null,reserved,ok,null,True,,
+none,reserved,ok,none,True,,
+model,reserved,ok,model,True,,
+server,reserved,ok,server,True,,
+read,reserved,ok,read,True,,
+write,reserved,ok,write,True,,
+search,reserved,ok,search,True,,
+call,reserved,ok,call,True,,
+exec,reserved,ok,exec,True,,
+shell,reserved,ok,shell,True,,
+server.tool,path,'NoneType' object is not subscriptable,,False,,TypeError
+server/tool,path,'NoneType' object is not subscriptable,,False,,TypeError
+ns:tool,path,'NoneType' object is not subscriptable,,False,,TypeError
+../tool,path,'NoneType' object is not subscriptable,,False,,TypeError
+./tool,path,'NoneType' object is not subscriptable,,False,,TypeError
+"tl
+name",control,'NoneType' object is not subscriptable,,False,,TypeError
+"tlname",control,'NoneType' object is not subscriptable,,False,,TypeError
+tl	name,control,'NoneType' object is not subscriptable,,False,,TypeError

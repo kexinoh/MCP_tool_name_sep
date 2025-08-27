@@ -1,0 +1,634 @@
+{
+  "MiniMax-M1": [
+    {
+      "name": "a",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "a",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "ok",
+      "visible_name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "category": "length",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tool",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "tool_1",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "tool_1",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "tool-1",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "tool-1",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "Tool123",
+      "category": "charset",
+      "api_status": "ok",
+      "visible_name": "Tool123",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "my.tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my/tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my:tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my@tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my+tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my,tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my?tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my#tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my%tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "my tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": " tool",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tool ",
+      "category": "charset",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "工具",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "café",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "café",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "ｔｏｏｌ",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "🛠️tool",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "δοκιμή",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tool​name",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tool‍name",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tool⁠name",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "Straße",
+      "category": "unicode",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "abc‏def",
+      "category": "directional",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "‮abc",
+      "category": "directional",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "_start",
+      "category": "boundary",
+      "api_status": "ok",
+      "visible_name": "_start",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "-start",
+      "category": "boundary",
+      "api_status": "ok",
+      "visible_name": "-start",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "end_",
+      "category": "boundary",
+      "api_status": "ok",
+      "visible_name": "end_",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "end-",
+      "category": "boundary",
+      "api_status": "ok",
+      "visible_name": "end-",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "0start",
+      "category": "boundary",
+      "api_status": "ok",
+      "visible_name": "0start",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": ".",
+      "category": "boundary",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": ".hidden",
+      "category": "boundary",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "system",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "system",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "assistant",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "assistant",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "user",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "user",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "function",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "function",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "tool",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "tool",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "default",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "default",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "null",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "null",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "none",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "none",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "model",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "model",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "server",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "server",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "read",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "read",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "write",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "write",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "search",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "search",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "call",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "call",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "exec",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "exec",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "shell",
+      "category": "reserved",
+      "api_status": "ok",
+      "visible_name": "shell",
+      "can_call": true,
+      "normalized": null,
+      "notes": null
+    },
+    {
+      "name": "server.tool",
+      "category": "path",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "server/tool",
+      "category": "path",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "ns:tool",
+      "category": "path",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "../tool",
+      "category": "path",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "./tool",
+      "category": "path",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tl\nname",
+      "category": "control",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tl\rname",
+      "category": "control",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    },
+    {
+      "name": "tl\tname",
+      "category": "control",
+      "api_status": "'NoneType' object is not subscriptable",
+      "visible_name": null,
+      "can_call": false,
+      "normalized": null,
+      "notes": "TypeError"
+    }
+  ]
+}
